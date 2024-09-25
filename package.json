@@ -2,7 +2,7 @@
     "name": "casper-i18n",
     "description": "The same casper theme, but with localization support",
     "demo": "https://demo.ghost.io",
-    "version": "5.7.4",
+    "version": "5.7.5",
     "engines": {
         "ghost": ">=5.0.0"
     },
