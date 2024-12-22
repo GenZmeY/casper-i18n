@@ -18,6 +18,7 @@ For more detailed information about theme, see the [casper page](https://github.
 - Hungarian (hu)
 - Indonesian (id)
 - Italian (it)
+- Latvian (lv)
 - Lithuanian (lt)
 - Norwegian Bokmål (nb)
 - Polish (pl)
