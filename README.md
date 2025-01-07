@@ -36,4 +36,4 @@ If your contribution is not related to translation - contribute it to the origin
 
 # Copyright & License
 
-Copyright (c) 2013-2023 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
