@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Újabb bejegyzések",
+	"Older Posts": "Régebbi bejegyzések",
+	"Page {page} of {pages}": "Oldal {page} / {pages}",
 	"Enter your email": "Írd be az email címed",
 	"Account": "fiók",
+	"Sign in": "Bejelentkezés",
 	"Subscribe": "Feliratkozás",
-	"Subscribe to {blogtitle}": "Iratkozz fel a {blogtitle}re",
 	"A collection of posts": "Cikkek gyűjteménye",
 	"A collection of 1 post": "Itt csupán egy cikk van",
 	"A collection of % posts": "% cikk gyűjteménye",
-	"Get the latest posts delivered right to your inbox": "Olvasd a legfrissebb cikkeket egyenesen a virtuális postaládádból",
 	"Go to the front page": "Vissza a kezdőlapra",
-	"Latest Posts": "Legfrissebb cikkek",
 	"Message": "Üzenet:",
-	"No posts": "Nincsenek cikkek",
 	"Ref": "Ref",
 	"1 post": "1 cikk",
 	"% posts": "% cikk",
 	"1 min read": "1 perces",
 	"% min read": "% perces",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Nagy!</strong> Ellenőrizze a beérkező leveleket, és kattintson a linkre az előfizetés megerősítéséhez.",
-	"Please enter a valid email address!": "Kérjük valós e-mail címet adjon meg!"
+	"Powered by Ghost": "A Ghost működteti"
 }

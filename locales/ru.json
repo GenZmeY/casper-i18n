@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Новые статьи",
+	"Older Posts": "Старые статьи",
+	"Page {page} of {pages}": "Страница {page} из {pages}",
 	"Enter your email": "Введите адрес электронной почты",
 	"Account": "Аккаунт",
+	"Sign in": "Войти",
 	"Subscribe": "Подписаться",
-	"Subscribe to": "Подписаться на",
 	"A collection of posts": "Коллекция статей",
 	"A collection of 1 post": "Коллекция из 1 статьи",
 	"A collection of % posts": "Коллекция из % статей",
-	"Get the latest posts delivered right to your inbox": "Получайте свежие статьи прямо на свою почту",
 	"Go to the front page": "На главную",
-	"Latest Posts": "Последние статьи",
 	"Message": "Сообщение",
-	"No posts": "Статьи отсутствуют",
 	"Ref": "Ссылка",
 	"1 post": "1 статья",
 	"% posts": "% статьи(-ей)",
 	"1 min read": "1 мин на чтение",
 	"% min read": "% мин на чтение",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Отлично!</strong> Проверьте свой почтовый ящик и нажмите ссылку, чтобы подтвердить подписку",
-	"Please enter a valid email address!": "Пожалуйста, введите действительный адрес электронной почты!"
+	"Powered by Ghost": "Работает на платформе Ghost"
 }

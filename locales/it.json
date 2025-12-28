@@ -1,22 +1,20 @@
 {
+	"Newer Posts": "Post più recenti",
+	"Older Posts": "Post meno recenti",
+	"Page {page} of {pages}": "Pagina {page} di {pages}",
 	"Enter your email": "Inserisci la tua email",
 	"Account": "Profilo",
-	"Subscribe": "Iscriviti",
 	"Sign in": "Accedi",
-	"Subscribe to {blogtitle}": "Iscriviti a {blogtitle}",
+	"Subscribe": "Iscriviti",
 	"A collection of posts": "Una collezione di articoli",
 	"A collection of 1 post": "Una collezione di 1 articolo",
 	"A collection of % posts": "Una collezione di % articoli",
-	"Get the latest posts delivered right to your inbox": "Ricevi gli articoli più recenti direttamente nella tua casella di posta",
 	"Go to the front page": "Vai alla pagina iniziale",
-	"Latest Posts": "Ultimi articoli",
 	"Message": "Messaggio",
-	"No posts": "Nessun articolo",
 	"Ref": "Rif",
 	"1 post": "1 articolo",
 	"% posts": "% articoli",
 	"1 min read": "1 minuto di lettura",
 	"% min read": "% minuti di lettura",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Ottimo!</strong> Controlla la posta in arrivo e fai clic sul link per confermare l'iscrizione.",
-	"Please enter a valid email address!": "Si prega di inserire un indirizzo email valido!"
+	"Powered by Ghost": "Tecnologia Ghost"
 }

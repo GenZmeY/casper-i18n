@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Nyere innlegg",
+	"Older Posts": "Eldre innlegg",
+	"Page {page} of {pages}": "Side {page} av {pages}",
 	"Enter your email": "Skriv inn din email",
 	"Account": "Regnskap",
+	"Sign in": "Logg inn",
 	"Subscribe": "Abbonér",
-	"Subscribe to {blogtitle}": "Abbonér på {blogtitle}",
 	"A collection of posts": "En samling innlegg",
 	"A collection of 1 post": "En samling av 1 innlegg",
 	"A collection of % posts": "En samling % innlegg",
-	"Get the latest posts delivered right to your inbox": "Få siste innlegg levert rett til din innboks",
 	"Go to the front page": "Go to the front page",
-	"Latest Posts": "Siste innlegg",
 	"Message": "Beskjed",
-	"No posts": "Ingen innlegg",
 	"Ref": "Ref",
 	"1 post": "1 innlegg",
 	"% posts": "% innlegg",
 	"1 min read": "1 min lesetid",
 	"% min read": "% min lesetid",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Flott!</strong> Sjekk innboksen din, og klikk på lenken for å bekrefte abonnementet.",
-	"Please enter a valid email address!": "Vennligst skriv inn en gyldig e-post adresse!"
+	"Powered by Ghost": "Drevet av Ghost"
 }

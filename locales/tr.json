@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Daha Yeni Gönderiler",
+	"Older Posts": "Daha Eski Gönderiler",
+	"Page {page} of {pages}": "Sayfa {page} / {pages}",
 	"Enter your email": "E-postanızı giriniz",
 	"Account": "Hesap",
+	"Sign in": "Giriş Yap",
 	"Subscribe": "Abone Ol",
-	"Subscribe to {blogtitle}": "{blogtitle} abone ol",
 	"A collection of posts": "Yazılar",
 	"A collection of 1 post": "1 yazı",
 	"A collection of % posts": "% yazı",
-	"Get the latest posts delivered right to your inbox": "Son paylaşılan içerikler gelen kutuna gelsin",
 	"Go to the front page": "Anasayfaya git",
-	"Latest Posts": "Son Yazılar",
 	"Message": "İleti",
-	"No posts": "İçerik Yok",
 	"Ref": "Ref",
 	"1 post": "1 yazı",
 	"% posts": "% yazı",
 	"1 min read": "1 dakikalık okuma",
 	"% min read": "% dakikalık okuma",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Harika!</strong> Gelen kutunuzu kontrol edin ve aboneliğinizi onaylamak için bağlantıyı tıklayın.",
-	"Please enter a valid email address!": "Geçerli bir e!"
+	"Powered by Ghost": "Ghost ile desteklenmektedir"
 }

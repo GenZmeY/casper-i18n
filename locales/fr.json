@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Articles plus récents",
+	"Older Posts": "Articles plus anciens",
+	"Page {page} of {pages}": "Page {page} sur {pages}",
 	"Enter your email": "Entrer votre Email",
 	"Account": "Compte",
+	"Sign in": "Se connecter",
 	"Subscribe": "S’abonner",
-	"Subscribe to {blogtitle}": "S’abonner à {blogtitle}",
 	"A collection of posts": "Une catégorie d’articles",
 	"A collection of 1 post": "Une catégorie avec un article",
 	"A collection of % posts": "Une catégorie avec % articles",
-	"Get the latest posts delivered right to your inbox": "Recevez les derniers articles directement dans votre boîte aux lettres.",
 	"Go to the front page": "Aller sur la page d’accueil",
-	"Latest Posts": "Derniers articles",
 	"Message": "Message",
-	"No posts": "Aucun article",
 	"Ref": "Réf",
 	"1 post": "Un article",
 	"% posts": "% articles",
 	"1 min read": "1 min de lecture",
 	"% min read": "% min de lecture",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Génial!</strong> Vérifiez votre boîte de réception et cliquez sur le lien pour confirmer votre abonnement.",
-	"Please enter a valid email address!": "S'il vous plaît, mettez une adresse email valide!"
+	"Powered by Ghost": "Propulsé par Ghost"
 }

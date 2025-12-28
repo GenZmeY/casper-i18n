@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Noviji postovi",
+	"Older Posts": "Stariji postovi",
+	"Page {page} of {pages}": "Stranica {page} od {pages}",
 	"Enter your email": "Upiši svoj email",
 	"Account": "Račun",
+	"Sign in": "Prijavi se",
 	"Subscribe": "Pretplati se",
-	"Subscribe to {blogtitle}": "Pretplati se na {blogtitle}",
 	"A collection of posts": "Kolekcija postova",
 	"A collection of 1 post": "Kolekcija s jednim postom",
 	"A collection of % posts": "Kolekcija sa % postova",
-	"Get the latest posts delivered right to your inbox": "Najnoviji postovi će biti dostavljeni u tvoj inbox",
 	"Go to the front page": "Go to the front page",
-	"Latest Posts": "Noviji Postovi",
 	"Message": "Poruka",
-	"No posts": "Nema postova",
 	"Ref": "Ref",
 	"1 post": "1 post",
 	"% posts": "% postova",
 	"1 min read": "1 min čitanja",
 	"% min read": "% min čitanja",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Sjajno!</strong> Provjerite pristiglu poštu i kliknite vezu da biste potvrdili pretplatu.",
-	"Please enter a valid email address!": "Unesite valjanu adresu e-pošte!"
+	"Powered by Ghost": "Pokreće Ghost"
 }

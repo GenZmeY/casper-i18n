@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Nyare inlägg",
+	"Older Posts": "Äldre inlägg",
+	"Page {page} of {pages}": "Sida {page} av {pages}",
 	"Enter your email": "Skriv in din e-postadress",
 	"Account": "Konto",
+	"Sign in": "Logga in",
 	"Subscribe": "Prenumerera",
-	"Subscribe to {blogtitle}": "Prenumerera på {blogtitle}",
 	"A collection of posts": "En samling artiklar",
 	"A collection of 1 post": "En samling av 1 artikel",
 	"A collection of % posts": "En samling av % artiklar",
-	"Get the latest posts delivered right to your inbox": "Få de senaste artiklarna levererade direkt till din inkorg",
 	"Go to the front page": "Go to the front page",
-	"Latest Posts": "Senaste artiklarna",
 	"Message": "Meddelande",
-	"No posts": "Inga artiklar",
 	"Ref": "Ref",
 	"1 post": "1 artikel",
 	"% posts": "% artiklar",
 	"1 min read": "1 minuts läsning",
 	"% min read": "% minuters läsning",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Bra!</strong> Kontrollera din inkorg och klicka på länken för att bekräfta din prenumeration.",
-	"Please enter a valid email address!": "Ange en giltig e-postadress!"
+	"Powered by Ghost": "Drivs av Ghost"
 }

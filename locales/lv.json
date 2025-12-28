@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Jaunāki raksti",
+	"Older Posts": "Vecāki raksti",
+	"Page {page} of {pages}": "{page}. lapa no {pages}",
 	"Enter your email": "Ievadiet savu e-pastu",
 	"Account": "Konts",
+	"Sign in": "Pieteikties",
 	"Subscribe": "Abonēt",
-	"Subscribe to {blogtitle}": "Abonēt {blogtitle}",
 	"A collection of posts": "Ziņu kolekcija",
 	"A collection of 1 post": "1 ziņa kolekcija",
 	"A collection of % posts": "% ziņu kolekcija",
-	"Get the latest posts delivered right to your inbox": "Saņemiet jaunākās ziņas tieši jūsu iesūtnē",
 	"Go to the front page": "Dodieties uz sākumlapu",
-	"Latest Posts": "Dodieties uz sākumlapu",
 	"Message": "Ziņojums",
-	"No posts": "Nav ziņu",
 	"Ref": "Atsauce",
 	"1 post": "1 ziņa",
 	"% posts": "% ziņas",
 	"1 min read": "1 minūte lasīt",
 	"% min read": "% minūtes lasīts",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Lieliski!</strong> Pārbaudiet savu iesūtni un noklikšķiniet uz saites, lai apstiprinātu abonementu.",
-	"Please enter a valid email address!": "Lūdzu, ievadiet derīgu e-pasta adresi!"
+	"Powered by Ghost": "Darbojas ar Ghost"
 }

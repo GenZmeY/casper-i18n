@@ -1,21 +1,20 @@
 {
+	"Newer Posts": "Uudemmat artikkelit",
+	"Older Posts": "Vanhemmat artikkelit",
+	"Page {page} of {pages}": "Sivu {page} / {pages}",
 	"Enter your email": "Syötä sähköpostiosoitteesi",
 	"Account": "Tili",
+	"Sign in": "Kirjaudu sisään",
 	"Subscribe": "Tilaa",
-	"Subscribe to {blogtitle}": "Tilaa blogi {blogtitle}",
 	"A collection of posts": "Artikkelien kokoelma",
 	"A collection of 1 post": "Kokoelmassa 1 artikkeli",
 	"A collection of % posts": "Kokoelmassa % artikkelia",
-	"Get the latest posts delivered right to your inbox": "Tilaa uusimmat artikkelit suoraan sähköpostiisi",
 	"Go to the front page": "Go to the front page",
-	"Latest Posts": "Uusimmat artikkelit",
 	"Message": "Viesti",
-	"No posts": "Ei artikkeleita",
 	"Ref": "Ref",
 	"1 post": "Yksi artikkeli",
 	"% posts": "% artikkelia",
 	"1 min read": "Lukuaika 1 minuutti",
 	"% min read": "Lukuaika % minuuttia",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Loistava!</strong> Tarkista postilaatikkosi ja vahvista tilauksesi napsauttamalla linkkiä.",
-	"Please enter a valid email address!": "Ole hyvä ja syötä toimiva sähköpostiosoite!"
+	"Powered by Ghost": "Ghost-alusta"
 }

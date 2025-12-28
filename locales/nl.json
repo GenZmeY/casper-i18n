@@ -1,22 +1,20 @@
 {
+	"Newer Posts": "Nieuwere berichten",
+	"Older Posts": "Oudere berichten",
+	"Page {page} of {pages}": "Pagina {page} van {pages}",
 	"Enter your email": "Voer je mailadres in ",
 	"Account": "Account",
-	"Subscribe": "Abonneren",
 	"Sign in": "Inloggen",
-	"Subscribe to {blogtitle}": "Abonneer je op {blogtitle}",
+	"Subscribe": "Abonneren",
 	"A collection of posts": "Een collectie van berichten",
 	"A collection of 1 post": "Een collectie van 1 bericht",
 	"A collection of % posts": "Een collectie van % berichten",
-	"Get the latest posts delivered right to your inbox": "Krijg nieuwe berichten direct in je inbox",
 	"Go to the front page": "Ga naar de voorpagina",
-	"Latest Posts": "Laatste berichten",
 	"Message": "Melding",
-	"No posts": "Geen berichten",
 	"Ref": "Ref",
 	"1 post": "1 bericht",
 	"% posts": "% bericht",
 	"1 min read": "1 minuut leestijd",
 	"% min read": "% minuten leestijd",
-	"<strong>Great!</strong> Check your inbox and click the link to confirm your subscription.": "<strong>Geweldig!</strong> Controleer je inbox en klik op de link om je abonnement te bevestigen.",
-	"Please enter a valid email address!": "Voer alsjeblieft geen geldig e-mailadres in!"
+	"Powered by Ghost": "Aangedreven door Ghost"
 }
