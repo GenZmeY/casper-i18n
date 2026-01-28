@@ -3311,10 +3311,10 @@ graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.10, graceful-fs@^4.2.11
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz#4183e4e8bf08bb6e05bbb2f7d2e0c8f712ca40e3"
   integrity sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==
 
-gscan@5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/gscan/-/gscan-5.2.2.tgz#ab05f237fe6800b8fde803d0c6ae0e5b5a9812ed"
-  integrity sha512-EVWZJ/XzFtyh0NX5TZW+wHVf79HynTY7NeEXgSIee3N0wKDBqPZ7jdtNkI+5Xz31eSvvQ37OojRBXl8qKaMYZQ==
+gscan@5.2.4:
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/gscan/-/gscan-5.2.4.tgz#2ce3fa8d0fbd23efba38c3511f95d429d909e179"
+  integrity sha512-pA8o9exAyBDjojkWENzrV5wO2XwXu/pMkxcw/rYP31JjGupxqvs3FPlAN4UI+GvoOB9L/CeFLzX8huFEy79EMQ==
   dependencies:
     "@sentry/node" "^9.0.0"
     "@tryghost/config" "^0.2.18"
@@ -3616,10 +3616,10 @@ ini@^2.0.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-2.0.0.tgz#e5fd556ecdd5726be978fa1001862eacb0a94bc5"
   integrity sha512-7PnF4oN3CvZF23ADhA5wRaYEQpJ8qygSkbtTXWBeXWXmEVRXK+1ITciHWwHhsjv1TmW0MgacIv6hEi5pX5NQdA==
 
-inquirer@13.2.0:
-  version "13.2.0"
-  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-13.2.0.tgz#1cddae2a37a0af174e876ac0b4546c43111f00b5"
-  integrity sha512-4CBv58vLrL4CnMgrscW/T5cLvfWM2nRLevttTiZTQyku7YV7/pc2IKyABBU2rDfVl4PiIB0sTRcwOac7BIYKLA==
+inquirer@13.2.1:
+  version "13.2.1"
+  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-13.2.1.tgz#1f7338c79174447384855a1b064e55e94b80748f"
+  integrity sha512-kjIN+joqgbSncQJ6GfN7gV9AbDQlMA+hJ96xcwkQUwP9KN/ZIusoJ2mAfdt0LPrZJQsEyk5i/YrgJQTxSgzlPw==
   dependencies:
     "@inquirer/ansi" "^2.0.3"
     "@inquirer/core" "^11.1.1"
